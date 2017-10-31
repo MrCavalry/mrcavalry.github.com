@@ -1,4 +1,5 @@
 ## This page for my lover
+ ![image] (http://github.com/MyCavalry/your-repository/raw/master/images-folder/xxx.png)MyCavalry
 
 You can use the [editor on GitHub](https://github.com/MrCavalry/mrcavalry.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
