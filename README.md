@@ -1,8 +1,6 @@
-## This page for my lover
- ![Image](https://github.com/MrCavalry/mrcavalry.github.com/raw/master/2.jpg)
- ![Image](https://github.com/MrCavalry/mrcavalry.github.com/raw/master/3.jpg)
-
-You can use the [editor on GitHub](https://github.com/MrCavalry/mrcavalry.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# This page for my lover
+ ![Image](https://github.com/MrCavalry/mrcavalry.github.com/raw/master/1.jpg)
+ <img src="https://github.com/MrCavalry/mrcavalry.github.com/raw/master/1.jpg"/>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
