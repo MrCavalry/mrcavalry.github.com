@@ -1,5 +1,5 @@
 # This page for my lover
- <img src="https://github.com/MrCavalry/mrcavalry.github.com/raw/master/1.jpg" width=200px height = 200px/>
+ <img src="https://github.com/MrCavalry/mrcavalry.github.com/blob/master/1.jpg" width=200px height = 200px/>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
