@@ -1,9 +1,5 @@
-# This page for my lover
-  ![Image](https://github.com/MrCavalry/mrcavalry.github.com/raw/master/1.jpg)
-  ![Image](https://github.com/MrCavalry/mrcavalry.github.com/raw/master/1.jpg)
-  ```html
-  <img src="https://github.com/MrCavalry/mrcavalry.github.com/raw/master/1.jpg" width=200px height = 200px/> 
-```
- 
+# 关于我
+ 飘在西北的东北人，java码龄2年,一个想成为架构师的程序员。
+
 
 
